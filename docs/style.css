@@ -4,7 +4,7 @@
 }
 
 body {
-  font-family: "Raleway";
+  font-family: 'Raleway';
   width: 90%;
   padding-top: 10px;
   background-image: url(marbletexture.jpg);
@@ -144,13 +144,13 @@ li {
 }
 
 .Raleway {
-  font-family: "Raleway" !important;
+  font-family: 'Raleway' !important;
   padding: 5px 5px !important;
   font-size: 25px;
 }
 
 .Quicksand {
-  font-family: "Quicksand" !important;
+  font-family: 'Quicksand' !important;
   padding: 5px 5px !important;
   font-size: 25px;
 }
@@ -166,7 +166,7 @@ li {
 }
 
 .Overpass {
-  font-family: "Overpass" !important;
+  font-family: 'Overpass' !important;
   padding: 5px 5px !important;
 }
 
